@@ -1,6 +1,6 @@
 # Web Scraping & Data Analysis Suite
 
-A comprehensive web scraping and data analysis toolkit that combines financial data collection from Yahoo Finance with social media sentiment analysis from Reddit. This project demonstrates advanced web scraping techniques, API integration, and data visualization capabilities.
+A comprehensive web scraping and data analysis toolkit that combines financial data collection from Yahoo Finance with social media sentiment analysis from Reddit. 
 
 ## 🚀 Features
 
