@@ -1,0 +1,15 @@
+# Credenciales y archivos sensibles
+*.env
+credentials.py
+config.json
+api_keys.txt
+credentials.json
+passwords.txt
+
+# Archivos de claves
+*.key
+*.pem
+
+# Otros archivos de configuración sensibles
+.env.local
+.env.production
