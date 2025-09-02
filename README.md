@@ -178,7 +178,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Gabriel Saco**
 - GitHub: [@gsaco](https://github.com/gsaco)
 - Project Link: [https://github.com/gsaco/web_scrapping](https://github.com/gsaco/web_scrapping)
-
----
-
-*Built with ❤️ for data analysis and financial research*
